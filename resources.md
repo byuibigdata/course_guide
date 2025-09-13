@@ -19,6 +19,10 @@ This [LinkedIn Learning guide](https://www.linkedin.com/pulse/free-linkedin-lear
 - [How Data Engineering Works](https://www.youtube.com/watch?v=qWru-b6m030&t=741s)
 - [Docker For Beginners: From Docker Desktop to Deployment](https://www.youtube.com/watch?v=i7ABlHngi1Q)
 
+## Datacamp
+
+- [Learn PySpark From Scratch in 2025: The Complete Guide](https://www.datacamp.com/blog/learn-pyspark)
+
 ## O'Reilly Media
 
 - [Mastering Big Data Analytics with PySpark (Video)](https://learning.oreilly.com/videos/mastering-big-data/9781838640583/9781838640583-video1_1)

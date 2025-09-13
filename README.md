@@ -1,6 +1,8 @@
 # Syllabus
 
-[Schedule a time to visit with me](https://byuidatascience.github.io/visit/hathaway/), if needed.
+- [Schedule a time to visit with me](https://byuidatascience.github.io/visit/hathaway/), if needed.
+- You might enjoy reading my [course and teaching paradigm](course_paradigm.md)
+
 
 ## Overview
 
@@ -23,11 +25,11 @@ You will find value in reading my [learning manifesto](https://educate.datathink
 
 ### Nice general outcomes. What tools are we using?
 
-We use [Polars](https://docs.pola.rs/), [Pyspark](https://databricks.com/glossary/pyspark) and [SparkSQL](https://databricks.com/glossary/what-is-spark-sql#:~:text=Spark%20SQL%20is%20a%20Spark,on%20existing%20deployments%20and%20data.) within [Docker](https://hub.docker.com/r/jupyter/all-spark-notebook) and with [Databricks](https://databricks.com/).  We will also leverage [git](https://git-scm.com/) and [Github](https://github.com/) heavily in our class and team collaborations.
+We use [Polars](https://docs.pola.rs/), [Pyspark](https://databricks.com/glossary/pyspark) and [SparkSQL](https://databricks.com/glossary/what-is-spark-sql#:~:text=Spark%20SQL%20is%20a%20Spark,on%20existing%20deployments%20and%20data.) within [Docker](https://hub.docker.com/r/jupyter/all-spark-notebook), the [Google Cloud Platform (GCP)](https://cloud.google.com) and with [Databricks](https://databricks.com/).  We will also leverage [git](https://git-scm.com/) and [Github](https://github.com/) heavily in our class and team collaborations.
 
 ### What are the assignments?
 
-The semester is relatively open-ended regarding the work you submit for evaluation. In the first few weeks, each class will pick its path for a business venture using the 'big data' provided.  We will generally work in groups, with each class participant submitting individual work at various times throughout the semester.
+The semester is relatively open-ended regarding the work you submit for evaluation. We will generally work in groups, with each class participant submitting individual work at various times throughout the semester.
 
 Review the current projects [here](https://github.com/byuibigdata#challenge-dates-and-links).
 
@@ -36,13 +38,8 @@ Often, the following challenges occur.
 1. Your tools coding challenge (data munging and visualization)
 2. Spark Team Feature Build Challenge (with team)
 3. Spark Coding Challenges (data munging and feature creation in class)
-4. Analytics Deployment App (Streamlit and Docker)
+4. Analytics Deployment App (Streamlit or Marimo, Docker, and GCP)
 5. Team 30-120 minute tools and code training
-
-#### Semester Project
-
-We can access varied big data sources from [Dewey](https://www.deweydata.io/). Our class will propose a project that leverages the [available data sets](https://app.deweydata.io/products) (note that you need to create an account to see the available data).
-
 
 ### Is this course a data engineering course?
 
@@ -64,7 +61,7 @@ _This course assumes that you are capable of guided learning and working in team
 
 ### What does guided learning and working in teams mean?
 
-The class runs like a start-up. We will work together to solve big-data problems as a ‘company.’ We are mandated to learn ‘big data programming’ and tackle complex data science problems. At the end of the semester, we should all feel more comfortable with Polars, Visualization, Pyspark, SparkSQL, Docker, and Databricks.  Our team will choose how we get from week 1 to week 13. __You should not expect anything about this class to be ‘traditional’ in the context of academia.__ For example,
+The class runs like a start-up. We will work together to solve big-data problems as a ‘company.’ We are mandated to learn ‘big data programming’ and tackle complex data science problems. At the end of the semester, we should all feel more comfortable with Polars, Visualization, Pyspark, SparkSQL, Docker, GCP, and Databricks.  Our team will choose how we get from week 1 to week 13. __You should not expect anything about this class to be ‘traditional’ in the context of academia.__ For example,
 
 - We will all take turns providing guides on how to use the tools
 - We will work in smaller teams but as a class, team to make decisions about our projects and work
@@ -210,5 +207,5 @@ If you feel you have greatly exceeded one of the competency areas, you can use t
 - [Design Thinking overview](design_thinking_agile.md)
 - [Spark resources](resources.md)
 - [On small group presentations](presentations.md)
-- [Big project general outline](big_project.md)
-- [Little project suggestions](little_projects.md)
+- [Course Learning/Teaching Paradigm](course_paradigm.md)
+

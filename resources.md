@@ -45,6 +45,7 @@ This [LinkedIn Learning guide](https://www.linkedin.com/pulse/free-linkedin-lear
 
 ## Other fun links
 
+- [Palintir PySpark Style Guide](https://github.com/palantir/pyspark-style-guide)
 - [Data Serialization](https://devopedia.org/data-serialization)
 - [Delta lake with Spark: What and Why?](https://towardsdatascience.com/delta-lake-with-spark-what-and-why-6d08bef7b963)
 - [MIT study finds ‘systematic’ labeling errors in popular AI benchmark datasets](https://venturebeat.com/2021/03/28/mit-study-finds-systematic-labeling-errors-in-popular-ai-benchmark-datasets/)
